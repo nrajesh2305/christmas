@@ -1,0 +1,12 @@
+black==23.9.1
+click==8.1.7
+libacmchristmas==0.1.5
+mypy-extensions==1.0.0
+numpy==1.26.2
+packaging==23.1
+pathspec==0.11.2
+Pillow==10.1.0
+platformdirs==3.10.0
+protobuf==4.25.1
+pycairo==1.24.0
+websockets==12.0
